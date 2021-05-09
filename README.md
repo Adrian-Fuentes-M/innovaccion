@@ -16,9 +16,10 @@ La plataforma Azure está compuesta por más de 200 productos y servicios en la 
 
 |Tipo de nube|Descripción|
 |----|----|
-|Nube Privada|Los recursos informáticos son utilizados exclusivamente por usuarios de una empresa u organización. Una nube privada se puede ubicar físicamente en el centro de datos in situ de su organización. También puede ser alojado por un proveedor de servicios externo.|
+|Nube Privada|Los recursos informáticos son utilizados exclusivamente por usuarios de una empresa u organización. Una nube privada se puede ubicar físicamente en el centro de datos in situ de su organización. También puede ser alojado por un proveedor de servicios externo.
+|----|----|
+|Nube Publica|Los servicios se ofrecen a través de internet público y están disponibles para cualquier persona que quiera comprarlos. Los recursos en la nube como servidores y almacenamiento son propiedad y son operados por un proveedor de servicios en la nube de terceros y se entregan a través de Internet.
 
-|Nube Publica|Los servicios se ofrecen a través de internet público y están disponibles para cualquier persona que quiera comprarlos. Los recursos en la nube como servidores y almacenamiento son propiedad y son operados por un proveedor de servicios en la nube de terceros y se entregan a través de Internet.|
 
 |Nube Híbrida|Este entorno informático combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se compartan entre ellos.|
 
