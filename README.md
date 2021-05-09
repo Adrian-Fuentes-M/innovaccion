@@ -15,7 +15,7 @@ La plataforma Azure está compuesta por más de 200 productos y servicios en la 
 
 <h2 style="color:#EC7C26"> Ventajas de la nube </h2>
 
-|||
+||Descripción|
 |----|----|
 |Alta disponibilidad|Dependerá del contrato del servicio.|
 |Escalabilidad|Se puede escalar verticalemnte aumentando la capacidad de proceso agregando más RAM o CPU, y horizontamente aumentando la capacidad de proceso, agregando instancias de recursos como la incorporación de máquinas virtuales a la configuración.
@@ -97,7 +97,7 @@ Las limitaciones de la plataforma pueden afectar al modo en que una aplicación 
 
 <h2 style="color:#EC7C26"> Informatica sin servidor </h2>
 
----
+
 
 ![Severless](https://www.aplyca.com/sites/default/files/styles/large/public/articles/img_blog_serverless%281%29.jpg?itok=WELt4OAu)
 
@@ -108,7 +108,7 @@ Elimina la necesidad de administrar la infraestructura puesto a que el proveedor
 ---
 <h2 style="color:#EC7C26"> CarpEx </h2>
 
----
+
 ### Gastos de capital
 
 Inversión previa de dinero en infraestructura física que se podrá deducir a lo largo del tiempo.
@@ -120,7 +120,6 @@ Inversión previa de dinero en infraestructura física que se podrá deducir a l
 ---
 <h2 style="color:#EC7C26"> OpEx </h2>
 
----
 ### Gastos operativos
 
 Dinero que se invierte en servicios o productos y se factura al instante.
