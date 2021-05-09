@@ -28,8 +28,9 @@ La plataforma Azure está compuesta por más de 200 productos y servicios en la 
 ---
 ![modelos](https://www.stackscale.com/wp-content/uploads/2020/04/modelos-servicios-cloud-iaas-paas-saas-stackscale.jpg)
 
+# CapEx
 
-
+Inversión previa de dinero en infraestructura física que se podrá deducir a lo largo del tiempo. S
 
 
 
