@@ -16,21 +16,21 @@ La plataforma Azure está compuesta por más de 200 productos y servicios en la 
 
 |Tipo de nube|Descripción|
 |----|----|
-|Nube Privada|Aqui va descripcion xd|
+|Nube Privada|Los recursos informáticos son utilizados exclusivamente por usuarios de una empresa u organización. Una nube privada se puede ubicar físicamente en el centro de datos in situ de su organización. También puede ser alojado por un proveedor de servicios externo.|
 |----|----|
-|Nube Publica|Aqui va descripcion xd|
+|Nube Publica|Los servicios se ofrecen a través de internet público y están disponibles para cualquier persona que quiera comprarlos. Los recursos en la nube como servidores y almacenamiento son propiedad y son operados por un proveedor de servicios en la nube de terceros y se entregan a través de Internet.|
 |----|----|
-|Nube Híbrida|Aqui va descripcion xd|
+|Nube Híbrida|Este entorno informático combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se compartan entre ellos.|
 
 ## Modelos de servicio en la nube
 
 |Modelo de Servicio|Descripción|
 |----|----|
-|IaaS|Aqui va descripcion xd|
+|IaaS|Este modelo de servicio en la nube es el más cercano a la administración de servidores físicos. Un proveedor en la nube mantiene el hardware actualizado, pero el mantenimiento del sistema operativo y la configuración de red se dejan en el inquilino de la nube. Por ejemplo, las máquinas virtuales de Azure son dispositivos informáticos virtuales totalmente operativos que se ejecutan en los centros de datos de Microsoft.|
 |----|----|
-|Paas|Aqui va descripcion xd|
+|Paas|Este modelo de servicio en la nube es un entorno de hospedaje administrado. El proveedor de nube administra las máquinas virtuales y los recursos de red y el inquilino en la nube implementa sus aplicaciones en el entorno de hospedaje administrado. Por ejemplo, Azure App Services proporciona un entorno de hospedaje administrado donde los desarrolladores pueden cargar sus aplicaciones web sin tener que lidiar con los requisitos físicos de hardware y software.|
 |----|----|
-|SaaS|Aqui va descripcion xd|
+|SaaS|En este modelo de servicio en la nube, el proveedor en la nube administra todos los aspectos del entorno de aplicaciones, como máquinas virtuales, recursos de red, almacenamiento de datos y aplicaciones. El inquilino en la nube solo necesita proporcionar sus datos a la aplicación administrada por el proveedor de nube.|
 
 ![modelos](https://www.stackscale.com/wp-content/uploads/2020/04/modelos-servicios-cloud-iaas-paas-saas-stackscale.jpg)
 
