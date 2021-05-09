@@ -5,7 +5,7 @@ Integrantes del reto:
 
 <h2 style="color:#EC7C26"> ¿Qué es la nube? </h2>
 
-La definición de la nube puede parecer poco clara, pero, básicamente, es un término que se utiliza para describir una red mundial de servidores, cada uno con una función única. La nube no es una entidad física, sino una red enorme de servidores remotos de todo el mundo que están conectados para funcionar como un único ecosistema. Estos servidores están diseñados para almacenar y administrar datos, ejecutar aplicaciones o entregar contenido o servicios, como streaming de vídeos, correo web, software de ofimática o medios sociales. En lugar de acceder a archivos y datos desde un equipo personal o local, accede a ellos en línea desde cualquier dispositivo conectado a Internet, es decir, la información está disponible dondequiera que vaya y siempre que la necesite.
+La definición de la nube puede parecer poco clara, pero, básicamente, es un término que se utiliza para describir una red mundial de servidores, cada uno con una función única. La nube no es una entidad física, sino una red enorme de servidores remotos de todo el mundo que están conectados para funcionar como un único ecosistema. Estos servidores están diseñados para almacenar y administrar datos, ejecutar aplicaciones o entregar contenido o servicios, como streaming de vídeos, correo web, software de ofimática o medios sociales. En lugar de acceder a archivos y datos desde un equipo personal o local, accede a ellos en línea desde cualquier dispositivo conectado a Internet, es decir, la información está disponible donde quiera que vaya y siempre que la necesite.
 
 <h2 style="color:#EC7C26">  ¿Qué es Azure? </h2>
 
@@ -18,7 +18,7 @@ La plataforma Azure está compuesta por más de 200 productos y servicios en la 
 ||Descripción|
 |----|----|
 |Alta disponibilidad|Dependerá del contrato del servicio.|
-|Escalabilidad|Se puede escalar verticalemnte aumentando la capacidad de proceso agregando más RAM o CPU, y horizontamente aumentando la capacidad de proceso, agregando instancias de recursos como la incorporación de máquinas virtuales a la configuración.
+|Escalabilidad|Se puede escalar verticalmente aumentando la capacidad de proceso agregando más RAM o CPU, y horizontamente aumentando la capacidad de proceso, agregando instancias de recursos como la incorporación de máquinas virtuales a la configuración.
 |Elasticidad|Se puede aprovechar el escalado automático para que las aplicaciones siempre dispongan los recursos que necesitan.|
 |Agilidad| Implementar y configurar rápidamente los recusos basados en la nube.|
 |Distribución geográfica|Implementar aplicaciones y datos en centros de datos regionales de todo el mundo, mejorando el rendimiento.|
@@ -31,7 +31,7 @@ La plataforma Azure está compuesta por más de 200 productos y servicios en la 
 
 |Tipo de nube|Descripción|
 |----|----|
-|Nube Privada|Los recursos informáticos son utilizados exclusivamente por usuarios de una empresa u organización. Una nube privada se puede ubicar físicamente en el centro de datos in situ de su organización. También puede ser alojado por un proveedor de servicios externo.
+|Nube Privada|Los recursos informáticos son utilizados exclusivamente por usuarios de una empresa u organización. Una nube privada se puede ubicar físicamente en el centro de datos de su organización. También puede ser alojado por un proveedor de servicios externo.
 |Nube Publica|Los servicios se ofrecen a través de internet público y están disponibles para cualquier persona que quiera comprarlos. Los recursos en la nube como servidores y almacenamiento son propiedad y son operados por un proveedor de servicios en la nube de terceros y se entregan a través de Internet.
 |Nube Híbrida|Este entorno informático combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se compartan entre ellos.|
 
@@ -60,7 +60,7 @@ La plataforma Azure está compuesta por más de 200 productos y servicios en la 
 <li>Sin gastos de capital</li>
 <li>Agilidad</li>
 <li>El usuario administra y mantiene los servicios que ha provisionado</li>
-<li>Modelo basado en el cosumo (OpEx)</li>
+<li>Modelo basado en el consumo (OpEx)</li>
 <li>No se requieren conocimientos técnicos avanzados</li>
 <li>Es el servicio en la nube más flexible</li>
 </ul>
@@ -125,10 +125,6 @@ Inversión previa de dinero en infraestructura física que se podrá deducir a l
 ---
 <h2 style="color:#EC7C26"> OpEx </h2>
 
-
-
-# CapEx
-
 ### Gastos operativos
 
 
@@ -146,7 +142,7 @@ Dinero que se invierte en servicios o productos y se factura al instante.
 
 <h2 style="color:#EC7C26;"> DevOps </h2>
 
-DevOps reúne a personas, procesos y tecnología mediante la automatización de la entrega de software para proporcionar valor continuo a sus usuarios. Con Azure DevOps, puede crear canalizaciones de compilación y versión que proporcionen integración continua, entrega e implementación para las aplicaciones. Puede integrar repositorios y pruebas de aplicaciones, realizar la supervisión de aplicaciones y trabajar con artefactos de compilación. También puede trabajar con y trabajar en elementos de trabajo pendiente para el seguimiento, automatizar la implementación de infraestructura e integrar una gama de herramientas y servicios de terceros como Jenkins y Chef.
+DevOps reúne a personas, procesos y tecnología mediante la automatización de la entrega de software para proporcionar valor continuo a sus usuarios. Con Azure DevOps, puede crear canalizaciones de compilación y versión que proporcionen integración continua, entrega e implementación para las aplicaciones. Puede integrar repositorios y pruebas de aplicaciones, realizar la supervisión de aplicaciones y trabajar con artefactos de compilación. También puede trabajar con elementos de trabajo pendiente para el seguimiento, automatizar la implementación de infraestructura e integrar una gama de herramientas y servicios de terceros como Jenkins y Chef.
 
 |Servicio|Descripción|
 |----|----|
