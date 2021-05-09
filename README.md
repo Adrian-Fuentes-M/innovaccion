@@ -23,7 +23,7 @@ La plataforma Azure está compuesta por más de 200 productos y servicios en la 
 |Agilidad| Implementar y configurar rápidamente los recusos basados en la nube.|
 |Distribución geográfica|Implementar aplicaciones y datos en centros de datos regionales de todo el mundo, mejorando el rendimiento.|
 |Recuperación ante desastres|Los datos tendrán copias de seguridad ubicados en diferentes zonas|
-|
+
 
 <br>
 
